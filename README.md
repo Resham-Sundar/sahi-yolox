@@ -3,14 +3,14 @@
 ## :framed_picture: Some Screenshots
 The screenshots below shows the original image, the inference using YoloX and the inference using YoloX with SAHI
 <p float="left">
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/bev-car6.jpg" width="33%" />
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output1-yolox.png" width="33%" /> 
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output1-yolox-sahi.png" width="33%" />
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/bev-car6.jpg" width="30%" />
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output1-yolox.png" width="30%" /> 
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output1-yolox-sahi.png" width="30%" />
 </p>
 <p float="left">
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/bev-car7.jpeg" width="33%" />
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output2-yolox.png" width="33%" /> 
-  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output2-yolox-sahi.png" width="33%" />
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/bev-car7.jpeg" width="30%" />
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output2-yolox.png" width="30%" /> 
+  <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/output2-yolox-sahi.png" width="30%" />
 </p>
 
 ## :star: What is actually happening
