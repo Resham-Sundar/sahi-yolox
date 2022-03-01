@@ -1,6 +1,6 @@
 <h1 align="center">YoloX with SAHI Implementation</h1>
 
-## :framed_picture: Some Screenshots
+## :framed_picture: Result Screenshots
 The screenshots below shows the original image, the inference using YoloX and the inference using YoloX with SAHI
 <p float="left">
   <img src="https://github.com/Resham-Sundar/sahi-yolox/blob/main/demo/demo_data/bev-car6.jpg" width="30%" />
