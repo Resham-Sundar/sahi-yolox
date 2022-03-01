@@ -17,7 +17,7 @@ The screenshots below shows the original image, the inference using YoloX and th
 SAHI is a lightweight vision library for performing large scale object detection & instance segmentation.It already comes with a code that shows the implementation of Yolov5, MMDetection and Detectron with SAHI.This can be found [here](https://github.com/obss/sahi).Here the implementation of YoloX with SAHI has been shown and can be put to use with a YoloX model trained on custom dataset as well as with the pretrained YoloX models already available.
 
 ## :dizzy: How to use?
-You can find a detailed blog showing the usage of it [here]. You can also have a look at the [colab notebook](https://colab.research.google.com/drive/1NhbFATMoH_4TPyOwnq2LS7Y66cQ5r5pV#scrollTo=3aAlTl0byPbs) showing the steps that needs to be performed for inferencing with the help of SAHI.
+You can find a detailed blog showing the usage of it [here](https://medium.com/@resham.sundar/yolox-with-sahi-implementation-f8aa12165097). You can also have a look at the [colab notebook](https://colab.research.google.com/drive/1NhbFATMoH_4TPyOwnq2LS7Y66cQ5r5pV#scrollTo=3aAlTl0byPbs) showing the steps that needs to be performed for inferencing with the help of SAHI.
 
 ## :heart: Reference
 <ul>
